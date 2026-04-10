@@ -76,7 +76,7 @@ function getDoctorPhoto($photo) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>*PIDIM* Pantalla Integral De Informacion Medica</title>
     <link rel="stylesheet" href="style.css">
-    <link rel="shortcut icon" href="https://i.postimg.cc/9fqYVvxh/logo.png" type="image/x-icon">
+    <link rel="shortcut icon" href="./img/img_paciente.png" type="image/x-icon">
     <style>
         /* Multi-doctor display styles */
         .doctors-grid {
